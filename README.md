@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GajuGhadlinge
 - 👀 I’m interested in data analysis. 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python...aside this, what is pandas?
 - 💞️ I’m looking to collaborate on projects within data analysis domain
 - 📫 Reach me on gajughadlinge@gmail.com
 
